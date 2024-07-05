@@ -209,7 +209,8 @@ input[type='date'],
 textarea,
 select {
   width: 100%;
-  padding: 7px;font-family:
+  padding: 7px;
+  font-family: Georgia, serif;
   font-size: 16px;
   border-radius: 5px;
   border: 1px solid #686868;
